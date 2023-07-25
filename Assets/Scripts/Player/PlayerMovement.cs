@@ -1,14 +1,14 @@
-using System;
 using UnityEngine;
 
 namespace Player
 {
     public class PlayerMovement : MonoBehaviour
     {
-        [SerializeField] private float _moveSpeed = 5f;
+        [SerializeField] private float moveSpeed = 5f;
         private Rigidbody2D _rigidbody2D;
         private Vector2 _movement;
         private Animator _animator;
+        
         private static readonly int Horizontal = Animator.StringToHash("Horizontal");
         private static readonly int Vertical = Animator.StringToHash("Vertical");
         private static readonly int Speed = Animator.StringToHash("Speed");
@@ -31,7 +31,7 @@ namespace Player
 
         private void FixedUpdate()
         {
-            _rigidbody2D.MovePosition(_rigidbody2D.position + _movement * (_moveSpeed * Time.fixedDeltaTime));
+            _rigidbody2D.MovePosition(_rigidbody2D.position + _movement * (moveSpeed * Time.fixedDeltaTime));
         }
     }
 }

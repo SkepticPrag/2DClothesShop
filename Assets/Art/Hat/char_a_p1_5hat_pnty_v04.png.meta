@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 11ec574fcd4e3ef4c98ee25e7c36d582
+guid: b89dea89ce54edd45bf265c69e4b1699
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -44,7 +44,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 25
@@ -128,1366 +128,1345 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: furniture_0
+      name: char_a_p1_5hat_pnty_v04_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 192
-        width: 15
-        height: 54
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acafbe483f4b20f4a85bf68720f1d4cf
-      internalID: -1188622327
+      spriteID: e4d6633aafb0fb14e9a652ab1af3322f
+      internalID: 2115065531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_1
+      name: char_a_p1_5hat_pnty_v04_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 211
-        width: 26
-        height: 45
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4ec00ff0855a9746ae7c42c6ec26851
-      internalID: 1796779271
+      spriteID: 4c7811d5f01d7054d80a3494e9f3bfaf
+      internalID: 245594004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_2
+      name: char_a_p1_5hat_pnty_v04_2
       rect:
         serializedVersion: 2
-        x: 80
-        y: 192
-        width: 15
-        height: 54
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00cc85fc2ae53684db56e900af550dd8
-      internalID: -826551135
+      spriteID: a05d10bb7d47c8343950788abf449e70
+      internalID: -1522121567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_3
+      name: char_a_p1_5hat_pnty_v04_3
       rect:
         serializedVersion: 2
-        x: 129
-        y: 192
-        width: 24
-        height: 54
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a79fb43c29e6eb6468a17f1b65d7b06d
-      internalID: -996947400
+      spriteID: 3fdae1c1913b3f34fb6be95a94f44652
+      internalID: 1050748412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_4
+      name: char_a_p1_5hat_pnty_v04_4
       rect:
         serializedVersion: 2
-        x: 161
-        y: 192
-        width: 24
-        height: 54
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ca0c935c6d38cc489f75f7aff032aac
-      internalID: -415625208
+      spriteID: 73dfe3341897175489301173393c32a8
+      internalID: 1750568577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_5
+      name: char_a_p1_5hat_pnty_v04_5
       rect:
         serializedVersion: 2
-        x: 195
-        y: 211
-        width: 26
-        height: 45
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e426c2b77fc6db47a0bc0535e831e46
-      internalID: -1737291067
+      spriteID: cb17e84b2700cdf42b807f1c339ec4c7
+      internalID: 1304757879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_6
+      name: char_a_p1_5hat_pnty_v04_6
       rect:
         serializedVersion: 2
-        x: 227
-        y: 211
-        width: 26
-        height: 45
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df6cb0c7c7f61cc46be5c23bbe5098e4
-      internalID: -688371584
+      spriteID: 22411e6607eb9bb43a68674721df4517
+      internalID: -1250323201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_7
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 192
-        width: 24
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a88d07ec495e7ec409740f82b8bdfa75
-      internalID: -1904312771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_8
-      rect:
-        serializedVersion: 2
-        x: 295
-        y: 192
-        width: 24
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6eaa17fb75f8e846ae544b8b1f775b7
-      internalID: 1973813954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_9
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 192
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d048fb4ddaa29c4b91721021774cb19
-      internalID: 1844428193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_10
-      rect:
-        serializedVersion: 2
-        x: 385
-        y: 192
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56f2cd524d9b5934597292363a933a88
-      internalID: -8926153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_11
-      rect:
-        serializedVersion: 2
-        x: 417
-        y: 212
-        width: 30
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af4452c1f18435f4e88f88e6ec5ff64b
-      internalID: 1885682261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_12
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 212
-        width: 30
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a18ca948f3479494a9ec01ceacc01d17
-      internalID: 1249277501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_13
-      rect:
-        serializedVersion: 2
-        x: 486
-        y: 192
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea5278f13426f3f46b92c97a7df4b1c9
-      internalID: -2121864404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_14
-      rect:
-        serializedVersion: 2
-        x: 518
-        y: 192
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adc86df4c61365647b176a863b04bf52
-      internalID: 1825030062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_15
-      rect:
-        serializedVersion: 2
-        x: 577
-        y: 196
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08d8aa01b13077d4696396edda6e6fae
-      internalID: 830811928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_16
-      rect:
-        serializedVersion: 2
-        x: 609
-        y: 196
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f59ee5765a884b448b69c637459f2267
-      internalID: 228850522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_17
-      rect:
-        serializedVersion: 2
-        x: 645
-        y: 209
-        width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88a56b2aa4dc03a4eb460f65889e23b5
-      internalID: 1188780348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_18
-      rect:
-        serializedVersion: 2
-        x: 677
-        y: 209
-        width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5889191ba177d994589ce4d31fc82c14
-      internalID: -1275946717
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_19
-      rect:
-        serializedVersion: 2
-        x: 713
-        y: 196
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f91b60bb0fd19064099f72e422735abd
-      internalID: 2008364681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_20
-      rect:
-        serializedVersion: 2
-        x: 745
-        y: 196
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 510a1cfd07d742744ac717e8c1bbabd5
-      internalID: 1482120489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_21
-      rect:
-        serializedVersion: 2
-        x: 801
-        y: 203
-        width: 30
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83f6f000291f5084da8e587ed88dffbe
-      internalID: -1149538642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_22
-      rect:
-        serializedVersion: 2
-        x: 833
-        y: 203
-        width: 30
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8c8f88c7e8f63b409dcaf7be08903fb
-      internalID: -1244167565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_23
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 128
-        width: 15
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1061d0d278eae7c46ab89d44d5f124c6
-      internalID: -1096872567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_24
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 147
-        width: 26
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5eead3c695d80904ba98f127e0a2da80
-      internalID: 1611999897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_25
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 128
-        width: 15
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4f156898b1179d47b115e86610ad654
-      internalID: -854517295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_26
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 147
-        width: 26
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d03af4d1b0471c438177ae310f902ff
-      internalID: 1977169623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_27
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 128
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8eb4996c267e4949b85917e8bbfda76
-      internalID: 1911752973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_28
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 128
-        width: 32
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 178e4013a4b9bf649a784fc1a9aec809
-      internalID: 42246432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_29
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 128
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1840656c778ff334889bcd8a11629e6e
-      internalID: -713232797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_30
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 110
-        width: 54
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f277bc999c60d1a4bb8e87eb81861fae
-      internalID: 1562605405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_31
-      rect:
-        serializedVersion: 2
-        x: 421
-        y: 110
-        width: 54
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7822a7504b571054dbaebfaf8e5a7cfb
-      internalID: 1151966574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_32
-      rect:
-        serializedVersion: 2
-        x: 485
-        y: 110
-        width: 54
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9573159337a651b46baf024985d84735
-      internalID: 1668312048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_33
-      rect:
-        serializedVersion: 2
-        x: 548
-        y: 108
-        width: 24
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05caadfa3251ed543adf60f46caabd20
-      internalID: -834104606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_34
-      rect:
-        serializedVersion: 2
-        x: 580
-        y: 108
-        width: 24
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ab65d1b5eed53748ac8f88f0e39dba5
-      internalID: -2129776628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_35
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 108
-        width: 24
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6aece6de20385994a85b280813071d63
-      internalID: 5854031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_36
-      rect:
-        serializedVersion: 2
-        x: 645
-        y: 128
-        width: 54
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba9f945d01a589f4798a59fc079ee9af
-      internalID: -1021171292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_37
-      rect:
-        serializedVersion: 2
-        x: 709
-        y: 128
-        width: 54
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d73d4a7e0c521164688d2d4c077e39d9
-      internalID: -1935759977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_38
-      rect:
-        serializedVersion: 2
-        x: 773
-        y: 128
-        width: 54
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1ac2c0d9c017f74fb2f11f382eb53f2
-      internalID: -339729109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_39
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 64
-        width: 19
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3440234c3ea75444a89cceaea2a01a3
-      internalID: 746979503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_40
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 83
-        width: 26
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4cdc4376bc5e044bada223352393699
-      internalID: -511682230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_41
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 64
-        width: 19
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 548e92d6dd765bd4d8740ee2dd4a906d
-      internalID: -400450704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_42
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 83
-        width: 26
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e01dca58b09bfb42b450f9643dc1410
-      internalID: 181991737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_43
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 64
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aabfc6c1c8df93347a95ebedaa437d4a
-      internalID: -527188969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_44
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 105f7b879bd7c0e4fac1866df3f7c0f4
-      internalID: -2060244176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_45
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 64
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca1ae46b36770b943b6becdc49805c6d
-      internalID: -1925841036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_46
-      rect:
-        serializedVersion: 2
-        x: 361
-        y: 20
-        width: 74
-        height: 76
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d489512ee1e7b8b48a4a575ffed87bf3
-      internalID: 1381858984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_47
+      name: char_a_p1_5hat_pnty_v04_7
       rect:
         serializedVersion: 2
         x: 448
-        y: 32
-        width: 31
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddca1c8e2368af246baa6b8572cba904
-      internalID: -221271742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_48
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 32
-        width: 31
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54c6304b82a65d449af21b351ec5ba17
-      internalID: -1732795155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_49
-      rect:
-        serializedVersion: 2
-        x: 673
-        y: 76
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d13747a1334cbb4eb2646fe5de298eb
-      internalID: 804941029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_50
-      rect:
-        serializedVersion: 2
-        x: 712
-        y: 64
-        width: 16
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a4503c6834d1a2498cf99a8e1ca8771
-      internalID: 1636991582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_51
-      rect:
-        serializedVersion: 2
-        x: 744
-        y: 76
-        width: 15
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e98240d5f2d5bd41b8c289c44a664f9
-      internalID: 884358034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_52
-      rect:
-        serializedVersion: 2
-        x: 783
-        y: 76
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31273e3de3c30424fb92e637501205fa
-      internalID: 688265735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_53
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 12
-        width: 50
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 986285c6434eb134387b92099b7f4e0e
-      internalID: -811504049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_54
-      rect:
-        serializedVersion: 2
-        x: 888
-        y: 12
+        y: 448
         width: 64
-        height: 83
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 595120c047f7f35438ecc0c180391959
-      internalID: 296192690
+      spriteID: a35ab0542fcde124da899db55cb3ced9
+      internalID: -1319046772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_55
+      name: char_a_p1_5hat_pnty_v04_8
       rect:
         serializedVersion: 2
-        x: 974
-        y: 12
-        width: 50
-        height: 84
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d05fec78ad799e64aa23f6c00cd88501
-      internalID: -1596662759
+      spriteID: ff6d0341df7f2f54aa15b89c55631980
+      internalID: 360496825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_56
+      name: char_a_p1_5hat_pnty_v04_9
       rect:
         serializedVersion: 2
-        x: 1
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7472e08e40bd206489e6c679e7992198
+      internalID: 112460529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72af13e020b014d812fffc85183eda
+      internalID: 1630158316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4e779257ce1245b2b5b83dfc63f7b
+      internalID: -1629058215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7bc247dbf01d4458fc8d5b0b9c406c
+      internalID: 1812632100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e601e949bc247142b6055b6f1d4a4b8
+      internalID: 974088924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0295dc1e431174b9d214e001e6d220
+      internalID: 640773400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf0421079a4cc4387b265f2afaf3c1
+      internalID: 349425496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4790639dcc8b0940b7b12a9f4a1afcc
+      internalID: 481576646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711c96d55cab3946a59b543c885cf40
+      internalID: -1171591782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c80c89aaa5e9246b08bd774ee30ca1
+      internalID: 1766142547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698353d43d7b624fa3fe4a1e0e609ac
+      internalID: -2003822879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba94c1f09baae48bf5e647d1037afc
+      internalID: -1018873294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2e37a6e1b26247a2d721f91bb0094
+      internalID: -1972315114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b64804e5e936498406b286129a60f
+      internalID: -1439093615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b38a22bf2d0c459f04d96887eb6ee
+      internalID: -1423491449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3eb24a67a7e4249a1a746607ca8c60
+      internalID: 1993203330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e586a85a8df1f6488ad6a27f74c08c5
+      internalID: 93273043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d18943e0dd03b84b8529b98331b5891
+      internalID: 126812436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279583f82652be4bb36266530654320
+      internalID: -2071987278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e64f83feea4b44a9e1c5b8a638ae5
+      internalID: 56182381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b1e6638c0bf2849aa5c7d61653c962
+      internalID: -629748845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a302af51fd7664aaedfb5fbb8045e3
+      internalID: 251144968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401b30aa86ee604c85db3df0868b986
+      internalID: 1957664320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acc4af0111f5e34685382a6763ea026
+      internalID: 1087430509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217aab3a0052f44ba61c66366a0eef6
+      internalID: -64911725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb959cc9a50f245983987aff642d49
+      internalID: 938505031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bd91ce83e99f4dbcf1a4024dcb0d5
+      internalID: -547127642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c427ba3c400914545a6b0db0c1838709
+      internalID: -647212251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf591f8232f9c4390e406dd7210977
+      internalID: -1771135908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21dcf10bc80194ab5757f71241a96f
+      internalID: -1609991460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fec581061da4d4c969302fd5d7010e
+      internalID: -547316426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a5c102be763746ae8090ab97bdf01
+      internalID: 1043870388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33956a459a2f434b824179c10834343
+      internalID: -313532563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca032e14dcce8c4ba5241aca12a6046
+      internalID: -1321987822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88fda59711ec44d8fbe633204bdcc1
+      internalID: -425600610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d906ea5cde811e418a3fced52ead00b
+      internalID: -2003509732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca10a43d5e88bd04b913394120133599
+      internalID: -1178042364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550267f4d06c2c41ad24066f6816522
+      internalID: -633097855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcab7e76727df947af9a3d98d34322d
+      internalID: -372591148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe71de5f06ee304d838f580a7931ef6
+      internalID: -180504424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0f5bac348eea448d21201296e894f
+      internalID: 2005353794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e12f31011f66c499541ce351c7c3a8
+      internalID: -828822704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be23fef262c53934d801f5a7f3e3ff3e
+      internalID: -1698563481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75bd6fd4e292784e877b24c8ba482ab
+      internalID: 1417289718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be89434d85863f045ab5af0ac00a93ae
+      internalID: 1637774106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3636df98e1fae4dbe9ad8b0fa1c6b6
+      internalID: 368553924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fe24092660e764488d0505b28be001
+      internalID: 2031526433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_56
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 16
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d95ee2bc4a35d4d45b051cda1f18916a
-      internalID: 137084525
+      spriteID: d74c8ce7f1be2b84bbdd85b71dc36f05
+      internalID: -1887252384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_57
+      name: char_a_p1_5hat_pnty_v04_57
       rect:
         serializedVersion: 2
-        x: 35
-        y: 19
-        width: 26
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e035ea57b120a14392774e760eef0f9
-      internalID: 1750448687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_58
-      rect:
-        serializedVersion: 2
-        x: 79
+        x: 64
         y: 0
-        width: 16
-        height: 54
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cfbdd4d56c885b47b5f191035951026
-      internalID: -1097554904
+      spriteID: cc515193c61370a448b2bb6daba71b53
+      internalID: -1355388450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_59
+      name: char_a_p1_5hat_pnty_v04_58
       rect:
         serializedVersion: 2
-        x: 224
+        x: 128
         y: 0
-        width: 32
-        height: 45
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df367878f1eefc94ca12c55cc0b573a5
-      internalID: -218687562
+      spriteID: a2c308f0c301aca4b83ef87bb8028df8
+      internalID: 740878498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_60
+      name: char_a_p1_5hat_pnty_v04_59
       rect:
         serializedVersion: 2
-        x: 549
-        y: 32
-        width: 54
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c91687cc8aa56844aa5fc16dbc286300
-      internalID: 80421517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_61
-      rect:
-        serializedVersion: 2
-        x: 609
-        y: 32
-        width: 59
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a07e8800c8586b6479e8400296689c27
-      internalID: 1416124228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: furniture_62
-      rect:
-        serializedVersion: 2
-        x: 676
+        x: 192
         y: 0
-        width: 59
-        height: 40
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52c2fd73eae52ed479c83d1379d3618c
-      internalID: 535432211
+      spriteID: 14d34e2b57055124ea75d225fe2b4254
+      internalID: 936036497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_63
+      name: char_a_p1_5hat_pnty_v04_60
       rect:
         serializedVersion: 2
-        x: 161
+        x: 256
         y: 0
-        width: 39
-        height: 32
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0396780c365e4114f8936b4de76fcfbb
-      internalID: -347535130
+      spriteID: 46a0dff06fbe97043acf066b0a868b47
+      internalID: 774936613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: furniture_64
+      name: char_a_p1_5hat_pnty_v04_61
       rect:
         serializedVersion: 2
-        x: 280
+        x: 320
         y: 0
-        width: 39
-        height: 32
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 666a3a52f8390b440bd7629c899b62e9
-      internalID: 583094369
+      spriteID: c8cd275533ba8b9429f4bfe114d0b74c
+      internalID: 191644028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d0b5a9e112c534aaa4965a61bd4e20
+      internalID: -1464716497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p1_5hat_pnty_v04_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d0d2fe0cb0d94793f5fdccd2d9f49
+      internalID: -350897205
       vertices: []
       indices: 
       edges: []
@@ -1503,71 +1482,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      furniture_53: -811504049
-      furniture_27: 1911752973
-      furniture_51: 884358034
-      furniture_36: -1021171292
-      furniture_38: -339729109
-      furniture_1: 1796779271
-      furniture_49: 804941029
-      furniture_59: -218687562
-      furniture_34: -2129776628
-      furniture_54: 296192690
-      furniture_39: 746979503
-      furniture_12: 1249277501
-      furniture_58: -1097554904
-      furniture_2: -826551135
-      furniture_26: 1977169623
-      furniture_37: -1935759977
-      furniture_29: -713232797
-      furniture_17: 1188780348
-      furniture_62: 535432211
-      furniture_32: 1668312048
-      furniture_52: 688265735
-      furniture_33: -834104606
-      furniture_43: -527188969
-      furniture_30: 1562605405
-      furniture_60: 80421517
-      furniture_35: 5854031
-      furniture_42: 181991737
-      furniture_3: -996947400
-      furniture_64: 583094369
-      furniture_15: 830811928
-      furniture_45: -1925841036
-      furniture_7: -1904312771
-      furniture_13: -2121864404
-      furniture_28: 42246432
-      furniture_44: -2060244176
-      furniture_8: 1973813954
-      furniture_6: -688371584
-      furniture_55: -1596662759
-      furniture_10: -8926153
-      furniture_46: 1381858984
-      furniture_11: 1885682261
-      furniture_63: -347535130
-      furniture_18: -1275946717
-      furniture_9: 1844428193
-      furniture_16: 228850522
-      furniture_14: 1825030062
-      furniture_40: -511682230
-      furniture_48: -1732795155
-      furniture_61: 1416124228
-      furniture_22: -1244167565
-      furniture_57: 1750448687
-      furniture_19: 2008364681
-      furniture_56: 137084525
-      furniture_41: -400450704
-      furniture_4: -415625208
-      furniture_25: -854517295
-      furniture_5: -1737291067
-      furniture_21: -1149538642
-      furniture_23: -1096872567
-      furniture_31: 1151966574
-      furniture_50: 1636991582
-      furniture_24: 1611999897
-      furniture_47: -221271742
-      furniture_20: 1482120489
-      furniture_0: -1188622327
+      char_a_p1_5hat_pnty_v04_50: -828822704
+      char_a_p1_5hat_pnty_v04_25: 93273043
+      char_a_p1_5hat_pnty_v04_24: 1993203330
+      char_a_p1_5hat_pnty_v04_30: 251144968
+      char_a_p1_5hat_pnty_v04_46: -633097855
+      char_a_p1_5hat_pnty_v04_56: -1887252384
+      char_a_p1_5hat_pnty_v04_2: -1522121567
+      char_a_p1_5hat_pnty_v04_35: -547127642
+      char_a_p1_5hat_pnty_v04_16: 481576646
+      char_a_p1_5hat_pnty_v04_20: -1018873294
+      char_a_p1_5hat_pnty_v04_32: 1087430509
+      char_a_p1_5hat_pnty_v04_1: 245594004
+      char_a_p1_5hat_pnty_v04_44: -2003509732
+      char_a_p1_5hat_pnty_v04_40: 1043870388
+      char_a_p1_5hat_pnty_v04_21: -1972315114
+      char_a_p1_5hat_pnty_v04_34: 938505031
+      char_a_p1_5hat_pnty_v04_55: 2031526433
+      char_a_p1_5hat_pnty_v04_47: -372591148
+      char_a_p1_5hat_pnty_v04_28: 56182381
+      char_a_p1_5hat_pnty_v04_17: -1171591782
+      char_a_p1_5hat_pnty_v04_23: -1423491449
+      char_a_p1_5hat_pnty_v04_58: 740878498
+      char_a_p1_5hat_pnty_v04_62: -1464716497
+      char_a_p1_5hat_pnty_v04_0: 2115065531
+      char_a_p1_5hat_pnty_v04_60: 774936613
+      char_a_p1_5hat_pnty_v04_13: 974088924
+      char_a_p1_5hat_pnty_v04_14: 640773400
+      char_a_p1_5hat_pnty_v04_27: -2071987278
+      char_a_p1_5hat_pnty_v04_39: -547316426
+      char_a_p1_5hat_pnty_v04_3: 1050748412
+      char_a_p1_5hat_pnty_v04_7: -1319046772
+      char_a_p1_5hat_pnty_v04_11: -1629058215
+      char_a_p1_5hat_pnty_v04_29: -629748845
+      char_a_p1_5hat_pnty_v04_9: 112460529
+      char_a_p1_5hat_pnty_v04_59: 936036497
+      char_a_p1_5hat_pnty_v04_53: 1637774106
+      char_a_p1_5hat_pnty_v04_12: 1812632100
+      char_a_p1_5hat_pnty_v04_41: -313532563
+      char_a_p1_5hat_pnty_v04_42: -1321987822
+      char_a_p1_5hat_pnty_v04_63: -350897205
+      char_a_p1_5hat_pnty_v04_36: -647212251
+      char_a_p1_5hat_pnty_v04_33: -64911725
+      char_a_p1_5hat_pnty_v04_61: 191644028
+      char_a_p1_5hat_pnty_v04_15: 349425496
+      char_a_p1_5hat_pnty_v04_52: 1417289718
+      char_a_p1_5hat_pnty_v04_4: 1750568577
+      char_a_p1_5hat_pnty_v04_5: 1304757879
+      char_a_p1_5hat_pnty_v04_6: -1250323201
+      char_a_p1_5hat_pnty_v04_37: -1771135908
+      char_a_p1_5hat_pnty_v04_22: -1439093615
+      char_a_p1_5hat_pnty_v04_8: 360496825
+      char_a_p1_5hat_pnty_v04_19: -2003822879
+      char_a_p1_5hat_pnty_v04_49: 2005353794
+      char_a_p1_5hat_pnty_v04_43: -425600610
+      char_a_p1_5hat_pnty_v04_31: 1957664320
+      char_a_p1_5hat_pnty_v04_18: 1766142547
+      char_a_p1_5hat_pnty_v04_54: 368553924
+      char_a_p1_5hat_pnty_v04_38: -1609991460
+      char_a_p1_5hat_pnty_v04_26: 126812436
+      char_a_p1_5hat_pnty_v04_51: -1698563481
+      char_a_p1_5hat_pnty_v04_45: -1178042364
+      char_a_p1_5hat_pnty_v04_10: 1630158316
+      char_a_p1_5hat_pnty_v04_57: -1355388450
+      char_a_p1_5hat_pnty_v04_48: -180504424
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
