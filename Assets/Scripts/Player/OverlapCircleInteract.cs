@@ -1,4 +1,4 @@
-using Interaction;
+using Interactable;
 using UnityEngine;
 
 namespace Player
@@ -35,13 +35,14 @@ namespace Player
         {
             if (DetectInteractable())
             {
-                IInteractable interactable = other.GetComponent<FurnitureInteract>();
+                IInteractable interactable = other.GetComponent<IInteractable>();
                 _interactableObject = interactable;
             }
         }
 
         private void OnTriggerExit2D(Collider2D other)
         {
+            _interactableObject?.CancelInteraction();
             _interactableObject = null;
         }
 

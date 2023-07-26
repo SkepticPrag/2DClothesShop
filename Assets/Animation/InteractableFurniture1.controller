@@ -85,7 +85,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Furniture1_Closed
+  m_Name: InteractableFurniture1_Closed
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -112,7 +112,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Furniture1_Open
+  m_Name: InteractableFurniture1_Open
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
