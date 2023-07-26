@@ -33,11 +33,10 @@ namespace Player
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (DetectInteractable())
-            {
-                IInteractable interactable = other.GetComponent<IInteractable>();
-                _interactableObject = interactable;
-            }
+            if (other.gameObject.GetComponent<IInteractable>() == null) return;
+            
+            IInteractable interactable = other.GetComponent<IInteractable>();
+            _interactableObject = interactable;
         }
 
         private void OnTriggerExit2D(Collider2D other)

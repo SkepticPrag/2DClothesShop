@@ -1,3 +1,4 @@
+using Shop;
 using UnityEngine;
 
 namespace Player
@@ -11,6 +12,8 @@ namespace Player
             var coinAmount = Random.Range(100, 500);
 
             coinCount += coinAmount;
+
+            ShopManager.Instance.coinsText.text = "Coins Collected: " + coinCount.ToString();
         }
     }
 }
