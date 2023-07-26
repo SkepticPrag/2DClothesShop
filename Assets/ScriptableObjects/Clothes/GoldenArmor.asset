@@ -15,5 +15,5 @@ MonoBehaviour:
   name: Golden Armor
   artwork: {fileID: -2119689243, guid: c0ea58f0ca56bba48809eda35aca68f7, type: 3}
   price: 750
-  animationToPlay: {fileID: 0}
+  animationToPlay: {fileID: 9100000, guid: 1a74fc20ac167ad4b9c40c62f1f26a9c, type: 2}
   clothesType: 2

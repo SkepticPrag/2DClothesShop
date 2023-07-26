@@ -15,5 +15,5 @@ MonoBehaviour:
   name: StandardArmor
   artwork: {fileID: -918647433, guid: c6565c8199bf8fa43ac3d7ed558d05f7, type: 3}
   price: 325
-  animationToPlay: {fileID: 0}
+  animationToPlay: {fileID: 9100000, guid: b82dd91a706539240896265c7feb88a4, type: 2}
   clothesType: 2

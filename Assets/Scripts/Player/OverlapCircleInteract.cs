@@ -45,11 +45,5 @@ namespace Player
             _interactableObject?.CancelInteraction();
             _interactableObject = null;
         }
-
-        private void OnDrawGizmosSelected()
-        {
-            Gizmos.color = Color.green;
-            Gizmos.DrawSphere(detectionPoint.position, DetectionRadius);
-        }
     }
 }

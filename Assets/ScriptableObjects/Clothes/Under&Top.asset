@@ -15,5 +15,5 @@ MonoBehaviour:
   name: Under & Top
   artwork: {fileID: 1273954960, guid: c7368a4ad7c631643ac6a395f3275dcf, type: 3}
   price: 125
-  animationToPlay: {fileID: 0}
+  animationToPlay: {fileID: 9100000, guid: f4a1b2a9bca7470419242cd8ba5885ee, type: 2}
   clothesType: 2

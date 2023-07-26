@@ -15,3 +15,5 @@ MonoBehaviour:
   name: Wizard Hat
   artwork: {fileID: 736111445, guid: b7cac5471f8dd94418bb0860fe6ba84c, type: 3}
   price: 250
+  animationToPlay: {fileID: 9100000, guid: b051005e27e56f1409b8b87b097146f6, type: 2}
+  clothesType: 0

@@ -15,5 +15,5 @@ MonoBehaviour:
   name: LooseHair
   artwork: {fileID: -338724889, guid: d17e5d2038934cf42b52ac2597f6db09, type: 3}
   price: 150
-  animationToPlay: {fileID: 0}
+  animationToPlay: {fileID: 9100000, guid: 455bab1193304bb4c819624f585a673e, type: 2}
   clothesType: 1

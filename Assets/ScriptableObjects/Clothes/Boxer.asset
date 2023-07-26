@@ -15,5 +15,5 @@ MonoBehaviour:
   name: Boxer
   artwork: {fileID: -370493272, guid: 3fb4932bc5d9e724eb2ef3848edbfc78, type: 3}
   price: 100
-  animationToPlay: {fileID: 0}
+  animationToPlay: {fileID: 9100000, guid: bcc0c0f250e6fc043b09f1ed55e5f992, type: 2}
   clothesType: 2

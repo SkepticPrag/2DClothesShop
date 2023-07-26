@@ -1,16 +1,12 @@
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.U2D;
 
 namespace Player
 {
     public class PlayerClothes : MonoBehaviour
     {
-        public SpriteRenderer hatRenderer;
-        public SpriteRenderer hairRenderer;
-        public SpriteRenderer clothesRenderer;
+        public Animator hatRenderer;
+        public Animator hairRenderer;
+        public Animator clothesRenderer;
         
-        
-
     }
 }

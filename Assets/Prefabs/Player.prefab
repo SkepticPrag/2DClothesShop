@@ -362,6 +362,7 @@ GameObject:
   - component: {fileID: 1355875684386699493}
   - component: {fileID: 6138685148274175543}
   - component: {fileID: 6138685148274175542}
+  - component: {fileID: 7914192484614173257}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -401,6 +402,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  animators:
+  - {fileID: 5740727350190736902}
+  - {fileID: 3154760379784082625}
+  - {fileID: 9075595171838572472}
+  - {fileID: 6138685148274175543}
 --- !u!114 &5343007073117832043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -549,3 +555,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &7914192484614173257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7951626839730139724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ac53884742c574990b9d95a9eacbd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hatRenderer: {fileID: 3154760379784082625}
+  hairRenderer: {fileID: 5740727350190736902}
+  clothesRenderer: {fileID: 9075595171838572472}

@@ -1,8 +1,8 @@
-using System;
 using Player;
 using Shop;
 using UnityEngine;
 using TMPro;
+using UnityEditor.Animations;
 using UnityEngine.UI;
 
 namespace Item
@@ -17,6 +17,7 @@ namespace Item
         public Button buyButton;
         public int priceInt;
         public ItemToBuy.ClothesType clothesType;
+        public AnimatorController clothesAnimation;
 
         public void Start()
         {
@@ -25,6 +26,7 @@ namespace Item
             price.text = itemToBuy.price.ToString();
             priceInt = itemToBuy.price;
             clothesType = itemToBuy.clothesType;
+            clothesAnimation = itemToBuy.animationToPlay;
             buyButton.onClick.AddListener(() => ShopManager.Instance.BuyItem(this));
         }
 
@@ -33,13 +35,13 @@ namespace Item
             switch (clothesType)
             {
                 case ItemToBuy.ClothesType.Hat:
-                    playerClothes.hatRenderer.sprite = artwork.sprite;
+                    playerClothes.hatRenderer.runtimeAnimatorController = clothesAnimation;
                     break;
                 case ItemToBuy.ClothesType.Hair:
-                    playerClothes.hairRenderer.sprite = artwork.sprite;
+                    playerClothes.hairRenderer.runtimeAnimatorController = clothesAnimation;
                     break;
                 case ItemToBuy.ClothesType.Clothes:
-                    playerClothes.clothesRenderer.sprite = artwork.sprite;
+                    playerClothes.clothesRenderer.runtimeAnimatorController = clothesAnimation;
                     break;
             }
         }
