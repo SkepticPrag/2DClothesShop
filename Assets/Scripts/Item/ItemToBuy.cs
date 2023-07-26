@@ -1,4 +1,3 @@
-using UnityEditor.Animations;
 using UnityEngine;
 
 namespace Item
@@ -12,7 +11,7 @@ namespace Item
 
         public int price;
 
-        public AnimatorController animationToPlay;
+        public RuntimeAnimatorController animationToPlay;
 
         public enum ClothesType
         {

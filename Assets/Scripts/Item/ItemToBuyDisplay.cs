@@ -2,7 +2,6 @@ using Player;
 using Shop;
 using UnityEngine;
 using TMPro;
-using UnityEditor.Animations;
 using UnityEngine.UI;
 
 namespace Item
@@ -17,7 +16,7 @@ namespace Item
         public Button buyButton;
         public int priceInt;
         public ItemToBuy.ClothesType clothesType;
-        public AnimatorController clothesAnimation;
+        public RuntimeAnimatorController clothesAnimation;
 
         public void Start()
         {
