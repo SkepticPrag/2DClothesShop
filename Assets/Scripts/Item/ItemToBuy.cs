@@ -1,7 +1,8 @@
+using UnityEditor.Animations;
 using UnityEngine;
 
 namespace Item
-{ 
+{
     [CreateAssetMenu(fileName = "New Item", menuName = "Item to Buy")]
     public class ItemToBuy : ScriptableObject
     {
@@ -10,5 +11,16 @@ namespace Item
         public Sprite artwork;
 
         public int price;
+
+        public AnimatorController animationToPlay;
+
+        public enum ClothesType
+        {
+            Hat,
+            Hair,
+            Clothes
+        };
+
+        public ClothesType clothesType;
     }
 }

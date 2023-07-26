@@ -15,3 +15,5 @@ MonoBehaviour:
   name: Tied Hair
   artwork: {fileID: 406067435, guid: d880e6363cc8b7b4fb8b5872b29aef2a, type: 3}
   price: 200
+  animationToPlay: {fileID: 0}
+  clothesType: 1

@@ -4,7 +4,7 @@ namespace Player
 {
     public class CoinCounter : MonoBehaviour
     {
-        [SerializeField]private int coinCount;
+        public int coinCount;
 
         public void PickUpCoins()
         {
