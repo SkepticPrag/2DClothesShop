@@ -1,18 +1,18 @@
-using System.Runtime.CompilerServices;
 using UnityEngine;
 
 namespace Interactable
 {
     public class Trader : MonoBehaviour,  IInteractable
     {
+        [SerializeField] private GameObject blacksmithShop;
         public void Interact()
         {
-            Debug.Log("Open Shop");
+            blacksmithShop.SetActive(true);
         }
 
         public void CancelInteraction()
         {
-            Debug.Log("Cancel Interaction");
+            blacksmithShop.SetActive(false);
         }
     }
 }
