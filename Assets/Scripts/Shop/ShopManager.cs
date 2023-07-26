@@ -28,8 +28,7 @@ namespace Shop
         public void BuyItem(ItemToBuyDisplay itemToBuyDisplay)
         {
             if (playerCoins.coinCount <= itemToBuyDisplay.priceInt) return;
-
-            Debug.Log(itemToBuyDisplay.priceInt);
+            
             playerCoins.coinCount -= itemToBuyDisplay.priceInt;
             itemToBuyDisplay.price.text = "Sold";
             itemToBuyDisplay.butButtonText.text = "Equip";

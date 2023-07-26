@@ -33,7 +33,7 @@ namespace Player
                     animator.SetFloat(Speed, _movement.sqrMagnitude);
                 }
             }
-            //
+
             // _animator.SetFloat(Horizontal, _movement.x);
             // _animator.SetFloat(Vertical, _movement.y);
             // _animator.SetFloat(Speed, _movement.sqrMagnitude);

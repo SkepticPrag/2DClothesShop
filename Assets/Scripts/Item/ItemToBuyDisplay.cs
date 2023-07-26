@@ -35,13 +35,16 @@ namespace Item
             switch (clothesType)
             {
                 case ItemToBuy.ClothesType.Hat:
-                    playerClothes.hatRenderer.runtimeAnimatorController = clothesAnimation;
+                    if (playerClothes.hatRenderer.runtimeAnimatorController != clothesAnimation)
+                        playerClothes.hatRenderer.runtimeAnimatorController = clothesAnimation;
                     break;
                 case ItemToBuy.ClothesType.Hair:
-                    playerClothes.hairRenderer.runtimeAnimatorController = clothesAnimation;
+                    if (playerClothes.hatRenderer.runtimeAnimatorController != clothesAnimation)
+                        playerClothes.hairRenderer.runtimeAnimatorController = clothesAnimation;
                     break;
                 case ItemToBuy.ClothesType.Clothes:
-                    playerClothes.clothesRenderer.runtimeAnimatorController = clothesAnimation;
+                    if (playerClothes.hatRenderer.runtimeAnimatorController != clothesAnimation)
+                        playerClothes.clothesRenderer.runtimeAnimatorController = clothesAnimation;
                     break;
             }
         }
